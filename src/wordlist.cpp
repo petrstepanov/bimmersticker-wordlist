@@ -116,13 +116,15 @@ int main() {
 							"Golf", "Jetta", "Passat", "Touareg", "Tiguan", "Polo", "Touran", "Sharan", "Type R"
 	};
 
-	const char* phrases[] = {"Windshield banner _",
-							 "Sun strip _",
-							 "Sunstrip _",
-							 "Windshield visor _",
-							 "Windsheild sticker _",
-							 "Windshield decal _",
-							 "Custom windshield _"};
+	const char* phrases[] = {
+//							 "Windshield banner _",
+//							 "Sun strip _",
+//							 "Sunstrip _",
+							 "Banner _"};
+//							 "Windshield visor _",
+//							 "Windshield sticker _",
+//							 "Windshield decal _",
+//							 "Custom windshield _"};
 
 	for (long unsigned int i=0; i<sizeof(phrases)/sizeof(char*); i++){
 		std::string phrase = phrases[i];

@@ -113,7 +113,7 @@ int main() {
 							"Model S", "Model 3", "Model X", "Model Y",
 							"AE86", "GT86", "GR86", "Camry", "Corolla", "Tundra"
 							"XC40", "XC60", "XC90", "C30", "C40", "C70", "V40", "V70", "V90", "S40", "S60", "S90", "850", "940", "Polestar",
-							"Golf", "Jetta", "Passat", "Touareg", "Tiguan", "Polo", "Touran", "Sharan", "Type R"
+							"Golf", "Jetta", "Passat", "Touareg", "Tiguan", "Polo", "Touran", "Sharan", "Type R", "typer"
 	};
 
 	const char* phrases[] = {
